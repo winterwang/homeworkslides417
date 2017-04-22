@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1492145461 "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.pdf" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example" 1492145462
+["xdvipdfmx"] 1492145461 "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.pdf" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example" 1492828924
   "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv" 1492145461 9388 d6b7e5242d1f54baa784258c73693a49 "xelatex"
   (generated)
   "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.pdf"
-["xelatex"] 1492145461 "example.tex" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv" "example" 1492145462
+["xelatex"] 1492145461 "example.tex" "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv" "example" 1492828924
   "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.aux" 1492145461 1173 9051fb270eddd175cec51aa71f001725 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -128,6 +128,6 @@
   "problemset.cls" 1479867608 217 fce0af6989400bd079da21f4bbdcd520 ""
   "problemset.sty" 1492063015 2039 b1adebccf4d2e1f12d14a1bfd421a9e8 ""
   (generated)
+  "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv"
   "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.aux"
   "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.log"
-  "/home/ccwang/Dropbox/github_projects/homeworkslides417/.latex/example.xdv"
